@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "David Baek"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Seung Min (David) Baek"
 description              : &description "Graduate student at Vanderbilt University"
