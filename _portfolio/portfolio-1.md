@@ -4,7 +4,7 @@ excerpt: "Analysis of Machine Learning Algorithms with theoretical foundations a
 collection: portfolio
 ---
 
-[Analysis of Machine Learning Algorithms] (https://github.com/seungmindavid/Machine-Learning-Algorithms)
+[Analysis of Machine Learning Algorithms](https://github.com/seungmindavid/Machine-Learning-Algorithms)
 
 Proficiency in machine learning algorithms necessitates a profound understanding of foundational mathematical disciplines, specifically linear algebra, calculus, and probability theory.
 

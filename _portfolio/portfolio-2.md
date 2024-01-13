@@ -4,7 +4,7 @@ excerpt: "Examination of Linear Algebra for Machine Learning"
 collection: portfolio
 ---
 
-[Examination of Linear Algebra] (https://github.com/seungmindavid/Linear-Algebra)
+[Examination of Linear Algebra](https://github.com/seungmindavid/Linear-Algebra)
 
 Proficiency in machine learning algorithms necessitates a profound understanding of foundational mathematical disciplines, specifically linear algebra, calculus, and probability theory.
 
