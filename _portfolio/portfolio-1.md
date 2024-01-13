@@ -1,7 +1,26 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Machine Learning Algorithms"
+excerpt: "Analysis of Machine Learning Algorithms with theoretical foundations and practical code implementation"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+[Analysis of Machine Learning Algorithms] (https://github.com/seungmindavid/Machine-Learning-Algorithms)
+
+Proficiency in machine learning algorithms necessitates a profound understanding of foundational mathematical disciplines, specifically linear algebra, calculus, and probability theory.
+
+Within this repository, a comprehensive exploration of machine learning algorithms will be undertaken, focusing on three principal facets aligned with the aforementioned mathematical domains.
+
+Algorithms covered:
+1. Linear & Polynomial Regression 
+2. Logistic Regression
+3. Support Vector Machine (SVM)
+4. Locality Sensitive Hashing - Random projection
+5. K Nearest Neighbors (Classifiers & Regressor)
+6. Dimensionality Reduction (PCA, LDA, Auto-Encoder, CCA)
+7. Clustering (K-Means Clustering)
+8. Gaussian Mixture Models (GMM), Expectation Maximization (EM) Algorithms
+9. Spectral Clustering
+10. Generative Modeling (GAN)
+11. Diffusion Model
+12. Deep Learning
+13. Reinforcement Learning
