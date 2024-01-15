@@ -1,8 +1,8 @@
 ---
-title: "Exploration of Wasserstein GAN (WGAN)"
-excerpt: "Generating MNIST and CIFAR-10 Dataset images with WGAN"
+title: "Exploration of Variational Auto Encoder"
+excerpt: "Generating MNIST and CIFAR-10 Dataset images with VAE"
 collection: portfolio
 ---
 
-[WGAN](https://github.com/seungmindavid/Representational-Learning/tree/main/GAN)
-Exploration of WGAN with theoretical foundations and practical code implementation.
+[VAEhttps://github.com/seungmindavid/Representational-Learning/tree/main/VAE)
+Exploration of VAE with theoretical foundations and practical code implementation.
