@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Home"
-title_separator          : "-"
+title_separator          : ""
 name                     : &name "Seung Min (David) Baek"
 description              : &description "Graduate student at Vanderbilt University"
 url                      : https://seungmindavid.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
