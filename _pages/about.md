@@ -6,7 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-------
 
 I am a M.S. candidate in Computer Science at Vanderbilt University, having previously earned a Bachelors's degree in Computer Science from Indiana University - Bloomington. A quote “Stay thirsty for knowledge” serves as a guiding principle for me, and it propels for me to stay formed about the latest development in the field of AI. With a profound motivation to delve into the realm of AI, I am eager to utilize my skill sets to contribute innovative projects.
 
