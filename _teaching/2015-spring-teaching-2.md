@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /repositories/
+permalink: /teaching/2014-spring-teaching-2
 title: repositories
 description: Most of my work has code open-sourced at GitHub.
 ---
