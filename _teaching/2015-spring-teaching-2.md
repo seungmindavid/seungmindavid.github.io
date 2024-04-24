@@ -1,20 +1,28 @@
 ---
-title: "Teaching experience 2"
-collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+layout: page
+permalink: /repositories/
+title: repositories
+description: Most of my work has code open-sourced at GitHub.
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+## GitHub Account
 
-Heading 1
-======
+{% if site.data.repositories.github_users %}
+<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
+  {% for user in site.data.repositories.github_users %}
+    {% include repository/repo_user.html username=user %}
+  {% endfor %}
+</div>
+{% endif %}
 
-Heading 2
-======
+---
 
-Heading 3
-======
+## GitHub Repositories
+
+{% if site.data.repositories.github_repos %}
+<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
+  {% for repo in site.data.repositories.github_repos %}
+    {% include repository/repo.html repository=repo %}
+  {% endfor %}
+</div>
+{% endif %}
