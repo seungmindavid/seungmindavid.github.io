@@ -10,7 +10,7 @@ main:
   #   url: /teaching/    
     
   - title: "Portfolio"
-    url: /portfolio/
+    url: /files/portfolio.md
         
   # - title: "Blog Posts"
   #   url: /year-archive/
