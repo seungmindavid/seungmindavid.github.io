@@ -46,8 +46,8 @@ redirect_from:
 
 ***Representational Learning***
 > Concepts covered
-> -[Generative Adversarial Network (GAN)](https://github.com/seungmindavid/Representational-Learning/tree/main/GAN)
-> -[Variational Auto Encoder (VAE)](https://github.com/seungmindavid/Representational-Learning/tree/main/VAE)
+> - [Generative Adversarial Network (GAN)](https://github.com/seungmindavid/Representational-Learning/tree/main/GAN)
+> - [Variational Auto Encoder (VAE)](https://github.com/seungmindavid/Representational-Learning/tree/main/VAE)
 
 
 
