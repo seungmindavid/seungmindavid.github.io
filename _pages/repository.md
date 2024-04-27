@@ -7,7 +7,7 @@ redirect_from:
 
 
 
-    
+        
 
 ***Large Language Model (LLM) Projects***
 
@@ -30,6 +30,10 @@ redirect_from:
 > - [Deep Learning](https://github.com/seungmindavid/Machine-Learning-Algorithms/tree/main/Deep%20Learning) (MLP, Geometric Learning: Convolutional Neural Network (CNN), Graph Convolutional Network (GCN), Deepset & Transformer, Self-Supervised Learning)
 > - [Diffusion Model](https://github.com/seungmindavid/Machine-Learning-Algorithms/tree/main/Diffusion%20model)
 > - [Reinforcement Learning](https://github.com/seungmindavid/Machine-Learning-Algorithms/tree/main/Reinforcement%20Learning)
+> 
+> Practical developments
+> - Weight Loss Prediction Using Social Network Analysis - [Paper](https://github.com/seungmindavid/Graph-Neural-Network-Project/blob/main/Weight%20Loss%20Prediction%20Using%20Social%20Network%20Analysis.pdf), [Source code](https://github.com/seungmindavid/Graph-Neural-Network-Project/blob/main/Boohee_Weight_Loss_Prediction.ipynb)
+>  - Implement GCN with Message Passing - [Theoretical aspect](https://github.com/seungmindavid/Machine-Learning-Algorithms/blob/main/Deep%20Learning/GCN/Graph%20Neural%20Network.pdf), [Source code](https://github.com/seungmindavid/Machine-Learning-Algorithms/blob/main/Deep%20Learning/GCN/GCN.ipynb)
 
 ***Deep Learning***
 > Concepts covered
@@ -44,6 +48,8 @@ redirect_from:
 > Concepts covered
 > -[Generative Adversarial Network (GAN)](https://github.com/seungmindavid/Representational-Learning/tree/main/GAN)
 > -[Variational Auto Encoder (VAE)](https://github.com/seungmindavid/Representational-Learning/tree/main/VAE)
+
+
 
 
 
