@@ -7,6 +7,7 @@ redirect_from:
 
 
 
+    
 
 ***Large Language Model (LLM) Projects***
 
@@ -31,13 +32,20 @@ redirect_from:
 > - [Reinforcement Learning](https://github.com/seungmindavid/Machine-Learning-Algorithms/tree/main/Reinforcement%20Learning)
 
 ***Deep Learning***
-> To start syncing your workspace, just sign in with Google in the menu.
+> Concepts covered
+> - [Optimization](https://github.com/seungmindavid/Deep-Learning/tree/main/Optimization) (Gradient Descent (GD), Stochastic Gradient Descent (SGD), Momentum, RMSProp, Adam, Role of Over-parameterization)
+> -[Normalization](https://github.com/seungmindavid/Deep-Learning/tree/main/Normalization) (Batch Normalization)
+> -[Lipschitz Continuity](https://github.com/seungmindavid/Deep-Learning/blob/main/Mathematics%20concepts/Lipschitz%20Continuity.pdf)
+> -[Geometric Learning](https://github.com/seungmindavid/Deep-Learning/tree/main/Geometric%20Learning) (Convolutional Neural Network (CNN), Graph Convolutional Network (GCN), Deepset & Transformer)
+> -[Generative Learning](https://github.com/seungmindavid/Deep-Learning/tree/main/Generative%20Learning) (Auto-Encoder (AE), Sliced Wasserstein Auto-Encoder (SWAE), Variational Auto-Encoder (VAE))
+> -[Fine Tuning](https://github.com/seungmindavid/Deep-Learning/blob/main/Fine%20Tuning/Fine-tuning.pdf)
 
 ***Representational Learning***
-> To start syncing your workspace, just sign in with Google in the menu.
+> Concepts covered
+> -[Generative Adversarial Network (GAN)](https://github.com/seungmindavid/Representational-Learning/tree/main/GAN)
+> [Variational Auto Encoder (VAE)](https://github.com/seungmindavid/Representational-Learning/tree/main/VAE)
 
-***Linear Algebra***
-> To start syncing your workspace, just sign in with Google in the menu.
+
 
 
 
