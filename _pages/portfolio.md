@@ -6,8 +6,6 @@ redirect_from:
   - /portfolio.html
 ---
 
-# Repositories
-
 Large Language Model (LLM) Projects
 >  - [A Dual-Model Approach for Transforming Toxic Comments to Positively-Toned Responses without Information Loss (Transformer)](https://github.com/seungmindavid/Machine-Learning-Algorithms)
 >  - LLM Practices: Fine Tuning, Tokenization, Generating Shakespeare-style contents, and Translation (EN-FR)
