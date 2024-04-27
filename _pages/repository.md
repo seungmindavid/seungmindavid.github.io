@@ -2,7 +2,7 @@
 permalink: /repository/
 author_profile: true
 redirect_from: 
-  - /portfolio.html
+  - /repository.html
 ---
 
 
