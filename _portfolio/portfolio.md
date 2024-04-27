@@ -1,9 +1,6 @@
 ---
-collection: portfolio
----
-# Repositories
 
-Large Language Model (LLM) Projects
+excerpt: "Large Language Model (LLM) Projects
 >  - [A Dual-Model Approach for Transforming Toxic Comments to Positively-Toned Responses without Information Loss (Transformer)](https://github.com/seungmindavid/Machine-Learning-Algorithms)
 >  - LLM Practices: Fine Tuning, Tokenization, Generating Shakespeare-style contents, and Translation (EN-FR)
 >   [Handlebars templates](http://handlebarsjs.com/),
@@ -38,5 +35,6 @@ Representational Learning
 
 Linear Algebra
 > To start syncing your workspace, just sign in with Google in the menu.
-
+collection: portfolio"
+---
 
