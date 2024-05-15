@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a M.Sc. in Computer Science at Vanderbilt University, following the completion of my Bachelor’s degree in Computer Science from Indiana University - Bloomington.
+I am a M.S. in Computer Science at Vanderbilt University, following the completion of my Bachelor’s degree in Computer Science from Indiana University - Bloomington.
 
 Throughout my academic journey, I have acquired a robust understanding of Artificial Intelligence (AI), encompassing both its theoretical aspects to practical development. Leveraging my educational background, I have actively sought to deepen my expertise and disseminate knowledge in AI. I have curated resources covering fundamental concepts in Machine Learning, Deep Learning, and Representational Learning.
 
