@@ -19,6 +19,7 @@ redirect_from:
 > - VAE (Exploration of VAE w/ MNIST - [Theoretical aspect](https://github.com/seungmindavid/Representational-Learning/blob/main/VAE/VAE.pdf), [Practical development c-VAE](https://github.com/seungmindavid/Representational-Learning/blob/main/VAE/cVAE.ipynb), [s-VAE](https://github.com/seungmindavid/Representational-Learning/blob/main/VAE/SVAE_CNN.ipynb)
 > - GAN (Exploration of GAN & W-GAN w/ MNIST Dataset) - [Theoretical aspects](https://github.com/seungmindavid/Representational-Learning/blob/main/GAN/GAN.pdf), [Practical development vanilla GAN](https://github.com/seungmindavid/Representational-Learning/blob/main/GAN/GAN.ipynb), [Wasserstein-GAN (WGAN)](https://github.com/seungmindavid/Representational-Learning/blob/main/GAN/WGAN.ipynb)
 > - Score-based Diffusion model - [Theoretical aspects](https://github.com/seungmindavid/Deep-Learning/blob/main/Generative%20Learning/Diffusion%20and%20Score-Based%20Generative%20Models.pdf)
+> - Stable Diffusion model - [Practical development](https://github.com/seungmindavid/Deep-Learning/blob/main/Stable%20Diffusion/Stable_Diffusion.ipynb)
 
 ***Machine Learning Algorithms***
 > Algorithms covered:
